@@ -20,4 +20,12 @@ border-radius: 100px;
 background-color: rgb(41, 138, 41);
 color: white;
 margin-top: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+font-size: 20px;
+text-transform: uppercase;
+}
+input{
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
